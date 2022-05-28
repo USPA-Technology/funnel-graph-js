@@ -37,10 +37,10 @@ npm i funnel-graph-js
 #### CDN
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/funnel-graph-js@1.3.9/dist/css/main.min.css">
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/funnel-graph-js@1.3.9/dist/css/theme.min.css">
-
-<script src="https://unpkg.com/funnel-graph-js@1.3.9/dist/js/funnel-graph.min.js"></script>
+<!-- FunnelGraph.js  -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/USPA-Technology/funnel-graph-js@latest/dist/css/main.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/USPA-Technology/funnel-graph-js@latest/dist/css/theme.css">
+<script src="https://cdn.jsdelivr.net/gh/USPA-Technology/funnel-graph-js@latest/dist/js/funnel-graph.min.js"></script>
 ```
 
 #### Download
