@@ -86,7 +86,8 @@ body {
     left: 0; }
     .svg-funnel-js .svg-funnel-js__subLabels .svg-funnel-js__subLabel {
       display: flex;
-      font-size: 13px;
+      font-size: 16px;
+      margin-top: 5px;
       color: #0000CD;
       line-height: 16px; }
       .svg-funnel-js .svg-funnel-js__subLabels .svg-funnel-js__subLabel:not(:first-child) {
